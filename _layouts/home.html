@@ -5,10 +5,12 @@
 {% include header.html %}
 <main>
   {% include home/slider.html %}
-  <section class="page page--home">
-    <section class="content">
+  <section class="page">
+    <section class="content content--home">
+      {% include home/social.html %}
       {{content}}
     </section>
+      {% include home/bio.html %}
   </section>
 </main>
 {% include footer.html %}
