@@ -1,0 +1,14 @@
+:root {
+    font-size: 16px;
+}
+body {
+    background-color: $silver;
+}
+%fontTitle {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+%fontReg {
+    font-family: 'Asap Condensed', sans-serif;
+    font-weight: normal;
+}
