@@ -2,6 +2,16 @@
 <html lang="en">
 {% include head.html %}
 <body>
-
+<div class="wrapper">
+  <div class="wrapper__aside">
+    {% include home/profile.html %}
+    {% include home/contact_me.html %}
+  </div>
+  <div class="wrapper__content">
+    {% include home/education.html %}
+    {% include home/work_experience.html %}
+  </div>
+  {% include home/portfolio.html %}
+</div>
 </body>
 </html>

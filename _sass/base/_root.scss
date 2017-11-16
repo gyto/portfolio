@@ -2,7 +2,8 @@
     font-size: 16px;
 }
 body {
-    background-color: $silver;
+    background-color: $light-green;
+    background-image: linear-gradient($dark-green 60%, $light-green );
 }
 %fontTitle {
     font-family: 'Playfair Display', serif;
