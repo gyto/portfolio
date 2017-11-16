@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec51e5a9-b5d0-4924-9d6c-5b375f196dc5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_includes/home/prof_skills.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/site/_education.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/site/_portfolio.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/site/_prof_skills.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_sass/site/partial/_hero_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/roman-kovtun.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/under-repair.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home/contact_me.html" afterPath="$PROJECT_DIR$/_includes/home/contact_me.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home/education.html" afterPath="$PROJECT_DIR$/_includes/home/education.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home/portfolio.html" afterPath="$PROJECT_DIR$/_includes/home/portfolio.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home/profile.html" afterPath="$PROJECT_DIR$/_includes/home/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home/work_experience.html" afterPath="$PROJECT_DIR$/_includes/home/work_experience.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/site/_wrapper.scss" afterPath="$PROJECT_DIR$/_sass/site/_wrapper.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/site/partial/_hero_title.scss" afterPath="$PROJECT_DIR$/_sass/site/partial/_hero_title.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/site/site.scss" afterPath="$PROJECT_DIR$/_sass/site/site.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/site/_portfolio.scss" afterPath="$PROJECT_DIR$/_sass/site/_portfolio.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/site/_profile.scss" afterPath="$PROJECT_DIR$/_sass/site/_profile.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,57 +31,17 @@
         <splitter split-orientation="vertical" split-proportion="0.5">
           <split-first>
             <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-              <file leaf-file-name="profile.html" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/_includes/home/profile.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="270">
-                      <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/_includes/head.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="180">
-                      <caret line="10" column="216" lean-forward="false" selection-start-line="10" selection-start-column="216" selection-end-line="10" selection-end-column="216" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="education.html" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/_includes/home/education.html">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="288">
-                      <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
               <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/_includes/home/portfolio.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="0">
-                      <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="21" />
+                    <state relative-caret-position="360">
+                      <caret line="20" column="102" lean-forward="false" selection-start-line="20" selection-start-column="102" selection-end-line="20" selection-end-column="102" />
                       <folding />
                     </state>
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="_portfolio.scss" pinned="false" current-in-tab="false">
-                <entry file="file://$PROJECT_DIR$/_sass/site/_portfolio.scss">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="36">
-                      <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-              <file leaf-file-name="prof_skills.html" pinned="false" current-in-tab="true">
+              <file leaf-file-name="prof_skills.html" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/_includes/home/prof_skills.html">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="108">
@@ -101,8 +54,18 @@
               <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/_sass/main.scss">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="90">
-                      <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+                    <state relative-caret-position="108">
+                      <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="profile.html" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/_includes/home/profile.html">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="36">
+                      <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
                       <folding />
                     </state>
                   </provider>
@@ -111,8 +74,8 @@
               <file leaf-file-name="_wrapper.scss" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/_sass/site/_wrapper.scss">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="162">
-                      <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+                    <state relative-caret-position="126">
+                      <caret line="7" column="123" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="123" />
                       <folding />
                     </state>
                   </provider>
@@ -132,7 +95,7 @@
           </split-first>
           <split-second>
             <leaf>
-              <file leaf-file-name="_hero_list.scss" pinned="false" current-in-tab="false">
+              <file leaf-file-name="_hero_list.scss" pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/_sass/site/partial/_hero_list.scss">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="179">
@@ -142,11 +105,11 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="work_experience.html" pinned="false" current-in-tab="true">
+              <file leaf-file-name="work_experience.html" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/_includes/home/work_experience.html">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="18">
-                      <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="4" selection-end-column="8" />
+                    <state relative-caret-position="180">
+                      <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
                       <folding />
                     </state>
                   </provider>
@@ -172,13 +135,13 @@
             <entry file="file://$PROJECT_DIR$/_sass/base/_grid.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="72">
-                  <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+                  <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_layouts/home.html">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="216">
@@ -188,11 +151,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_profile.scss" pinned="false" current-in-tab="false">
+          <file leaf-file-name="_profile.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_sass/site/_profile.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="414">
-                  <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+                <state relative-caret-position="738">
+                  <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_portfolio.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_sass/site/_portfolio.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="450">
+                  <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
                   <folding />
                 </state>
               </provider>
@@ -211,8 +184,8 @@
           <file leaf-file-name="contact_me.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_includes/home/contact_me.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="144">
-                  <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+                <state relative-caret-position="126">
+                  <caret line="7" column="225" lean-forward="false" selection-start-line="7" selection-start-column="225" selection-end-line="7" selection-end-column="225" />
                   <folding />
                 </state>
               </provider>
@@ -221,8 +194,8 @@
           <file leaf-file-name="_hero_title.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/_sass/site/partial/_hero_title.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="630">
-                  <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+                <state relative-caret-position="360">
+                  <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="29" selection-end-column="36" />
                   <folding />
                 </state>
               </provider>
@@ -283,23 +256,23 @@
         <option value="$PROJECT_DIR$/_sass/base/_colors.scss" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_sass/base/_layout_classes.scss" />
-        <option value="$PROJECT_DIR$/_sass/site/_profile.scss" />
         <option value="$PROJECT_DIR$/_sass/main.scss" />
-        <option value="$PROJECT_DIR$/_includes/home/profile.html" />
         <option value="$PROJECT_DIR$/_sass/site/partial/_hero_title.scss" />
         <option value="$PROJECT_DIR$/_sass/site/_education.scss" />
         <option value="$PROJECT_DIR$/_includes/home/education.html" />
         <option value="$PROJECT_DIR$/_includes/home/work_experience.html" />
         <option value="$PROJECT_DIR$/_sass/site/partial/_hero_list.scss" />
-        <option value="$PROJECT_DIR$/_includes/home/contact_me.html" />
-        <option value="$PROJECT_DIR$/_includes/home/portfolio.html" />
         <option value="$PROJECT_DIR$/_sass/site/_wrapper.scss" />
         <option value="$PROJECT_DIR$/_sass/site/site.scss" />
-        <option value="$PROJECT_DIR$/_sass/site/_portfolio.scss" />
         <option value="$PROJECT_DIR$/_sass/site/_prof_skills.scss" />
         <option value="$PROJECT_DIR$/_includes/home/_prof_skills.html" />
         <option value="$PROJECT_DIR$/_layouts/home.html" />
         <option value="$PROJECT_DIR$/_includes/home/prof_skills.html" />
+        <option value="$PROJECT_DIR$/_includes/home/contact_me.html" />
+        <option value="$PROJECT_DIR$/_includes/home/portfolio.html" />
+        <option value="$PROJECT_DIR$/_sass/site/_portfolio.scss" />
+        <option value="$PROJECT_DIR$/_includes/home/profile.html" />
+        <option value="$PROJECT_DIR$/_sass/site/_profile.scss" />
       </list>
     </option>
   </component>
@@ -341,6 +314,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -487,10 +474,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="SearchEverywhereHistoryKey" value="wra&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/site/_wrapper.scss&#10;wrap&#9;ACTION&#9;EditorToggleUseSoftWraps&#10;color&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/base/_colors.scss&#10;rebo&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/base/_reboot.scss&#10;root&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/base/_root.scss" />
+    <property name="SearchEverywhereHistoryKey" value="hero&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/site/partial/_hero_title.scss&#10;portfol&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/site/_portfolio.scss&#10;wra&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/site/_wrapper.scss&#10;wrap&#9;ACTION&#9;EditorToggleUseSoftWraps&#10;color&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/base/_colors.scss&#10;rebo&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/base/_reboot.scss&#10;root&#9;FILE&#9;file:///Users/gyto/Projects/portfolio/_sass/base/_root.scss" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/_layouts" />
     </key>
   </component>
@@ -654,7 +645,7 @@
       <workItem from="1505694155695" duration="13000" />
       <workItem from="1506649811658" duration="781000" />
       <workItem from="1506661885413" duration="27000" />
-      <workItem from="1510799978371" duration="9584000" />
+      <workItem from="1510799978371" duration="12246000" />
     </task>
     <task id="LOCAL-00001" summary="add tracking ID">
       <created>1506649901656</created>
@@ -698,14 +689,22 @@
       <option name="project" value="LOCAL" />
       <updated>1510807099437</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="adding additional sections">
+      <created>1510810561147</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1510810561147</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16613000" />
+    <option name="totallyTimeSpent" value="19275000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="415" y="-1410" width="2141" height="1374" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Key Promoter X" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -714,7 +713,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10957599" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14911863" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -763,14 +762,14 @@
     <MESSAGE value="changing reset formula" />
     <MESSAGE value="implementing profile design" />
     <MESSAGE value="creating hero title" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating hero title" />
+    <MESSAGE value="adding additional sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding additional sections" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.md" />
     <entry file="file://$PROJECT_DIR$/_site/css/main.scss" />
     <entry file="file://$PROJECT_DIR$/_site/css/main.scss" />
     <entry file="file://$PROJECT_DIR$/_sass/_layout.scss" />
@@ -929,7 +928,7 @@
     <entry file="file://$PROJECT_DIR$/_sass/base/_grid.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -950,54 +949,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="28" lean-forward="false" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/site/_profile.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/site/partial/_hero_title.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/home/education.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/site/partial/_hero_list.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="216" lean-forward="false" selection-start-line="10" selection-start-column="216" selection-end-line="10" selection-end-column="216" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/site/_education.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -1006,66 +957,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/home/profile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/home/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/site/_wrapper.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/site/site.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/site/_portfolio.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/site/_prof_skills.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/home/work_experience.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="2" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="4" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/home/contact_me.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -1082,6 +977,115 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/home/contact_me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="225" lean-forward="false" selection-start-line="7" selection-start-column="225" selection-end-line="7" selection-end-column="225" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="216" lean-forward="false" selection-start-line="10" selection-start-column="216" selection-end-line="10" selection-end-column="216" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/home/education.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/site/_wrapper.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="123" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/site/site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/www-lingsonwatchrepair-com.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/home/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="102" lean-forward="false" selection-start-line="20" selection-start-column="102" selection-end-line="20" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/home/work_experience.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/site/partial/_hero_list.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/site/partial/_hero_title.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/site/_portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="29" lean-forward="false" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/home/profile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="74" lean-forward="false" selection-start-line="2" selection-start-column="74" selection-end-line="2" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/site/_profile.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
           <folding />
         </state>
       </provider>
