@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec51e5a9-b5d0-4924-9d6c-5b375f196dc5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/roman-kovtun.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/under-repair.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home/contact_me.html" afterPath="$PROJECT_DIR$/_includes/home/contact_me.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home/portfolio.html" afterPath="$PROJECT_DIR$/_includes/home/portfolio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/home/profile.html" afterPath="$PROJECT_DIR$/_includes/home/profile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/site/_portfolio.scss" afterPath="$PROJECT_DIR$/_sass/site/_portfolio.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/site/_profile.scss" afterPath="$PROJECT_DIR$/_sass/site/_profile.scss" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -154,8 +147,8 @@
           <file leaf-file-name="_profile.scss" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/_sass/site/_profile.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="738">
-                  <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+                <state relative-caret-position="432">
+                  <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
                   <folding />
                 </state>
               </provider>
@@ -645,7 +638,7 @@
       <workItem from="1505694155695" duration="13000" />
       <workItem from="1506649811658" duration="781000" />
       <workItem from="1506661885413" duration="27000" />
-      <workItem from="1510799978371" duration="12246000" />
+      <workItem from="1510799978371" duration="12261000" />
     </task>
     <task id="LOCAL-00001" summary="add tracking ID">
       <created>1506649901656</created>
@@ -696,11 +689,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510810561147</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adding additional sections">
+      <created>1510813276903</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1510813276903</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19275000" />
+    <option name="totallyTimeSpent" value="19290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="415" y="-1410" width="2141" height="1374" extended-state="0" />
@@ -1084,8 +1084,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/site/_profile.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        <state relative-caret-position="432">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
           <folding />
         </state>
       </provider>
