@@ -1,40 +1,59 @@
 .portfolio {
-    width: 100%;
+    width   : 100%;
     padding : 40px 50px 0;
+    @include sm {
+        padding : 20px 30px 0;
+    }
+    @include small-phone {
+        padding: 20px 15px 0;
+    }
 }
 .portfolio__wrapper {
-    display: flex;
-    justify-content: flex-start;
-    margin-right: -10px;
-    margin-left: -10px;
-    max-width: 100%;
-    flex-wrap: wrap;
+    display         : flex;
+    justify-content : flex-start;
+    margin-right    : -10px;
+    margin-left     : -10px;
+    max-width       : 100%;
+    flex-wrap       : wrap;
+    @include sm {
+        justify-content : center;
+        margin-left     : 0;
+        margin-right    : 0;
+    }
 }
 .portfolio__item {
-    flex : 0 0 (100%/3);
-    max-width: (100%/3);
-    padding-left: 10px;
-    padding-right: 10px;
-    margin-bottom: 15px;
+    flex          : 0 0 (100%/3);
+    max-width     : (100%/3);
+    padding-left  : 10px;
+    padding-right : 10px;
+    margin-bottom : 15px;
+    @include sm {
+        max-width : 50%;
+        flex      : 0 0 50%;
+    }
+    @include maxW(701px) {
+        max-width : 100%;
+        flex      : 0 0 100%;
+    }
 }
 .portfolio__card {
     box-shadow       : 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
-    background-color: $white;
-    border-radius: 4px;
-    overflow: hidden;
+    background-color : $white;
+    border-radius    : 4px;
+    overflow         : hidden;
     a:hover {
-        text-decoration: none;
+        text-decoration : none;
     }
     img {
-        width: 100%;
-        height: auto;
+        width      : 100%;
+        height     : auto;
         //TODO: remove later
-        min-height: 185px;
+        min-height : 185px;
     }
     span {
-        font-weight: 300;
-        padding: 10px 14px;
-        text-align: center;
-        display: block;
+        font-weight : 300;
+        padding     : 10px 14px;
+        text-align  : center;
+        display     : block;
     }
 }

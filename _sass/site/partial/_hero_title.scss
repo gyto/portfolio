@@ -15,7 +15,7 @@
 .hero_text {
     text-transform: uppercase;
     font-weight: 600;
-    letter-spacing: 5px;
+    letter-spacing: 3px;
     position: relative;
     &:after {
         content: '';
@@ -35,5 +35,8 @@
         background-color: $silver;
         z-index :2;
         position : relative;
+    }
+    @include maxW(425px) {
+        font-size: 1rem;
     }
 }

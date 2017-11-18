@@ -1,0 +1,26 @@
+@mixin maxW($param) {
+    @media (max-width: $param) {
+        @content;
+    }
+}
+
+@mixin small-phone {
+    @media (max-width: 320px) {
+        @content;
+    }
+}
+@mixin xs {
+    @media (max-width: 767px) {
+        @content;
+    }
+}
+@mixin sm {
+    @media (max-width: 991px) {
+        @content;
+    }
+}
+@mixin md {
+    @media (max-width: 1199px) {
+        @content;
+    }
+}
