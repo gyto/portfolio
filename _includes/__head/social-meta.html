@@ -1,21 +1,14 @@
 <!--Facebook Pixel-->
-<meta property="og:url"
-      content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
 <meta property="fb:app_id" content="855777757936979"/>
 <meta property="og:type" content="profile"/>
-<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
-<meta property="og:description" content="Front-end Web Developer with 4 years of experience in developing, analyzing user interface/experience, testing, debugging, deploying, and training staff within landing pages and eCommerce technologies."/>
-<meta property="og:image"
-      content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}images/roman-kovtun.jpg"/>
-
 <!--Twitter Card-->
-
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:site" content="@gyto23"/>
 <meta name="twitter:creator" content="@gyto23"/>
+<!--Generic META-->
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}"/>
-<meta property="og:title" content="Roman Kovtun Portfolio"/>
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
 <meta property="og:description"
       content="Front-end Web Developer with 4 years of experience in developing, analyzing user interface/experience, testing, debugging, deploying, and training staff within landing pages and eCommerce technologies."/>
 <meta property="og:image"
-      content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}images/roman-kovtun.jpg"/>
+      content="{{ page.url |  replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}images/roman-kovtun.jpg"/>
